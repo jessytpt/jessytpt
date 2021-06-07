@@ -2,6 +2,8 @@
 
 Te invito a ver mi [Portafolio](https://jessytpt.github.io "Portafolio") 🎉
 
+### PORTAFOLIO EN CONSTRUCCIÓN 🛠
+
 Escríbeme para trabajar juntos :)
 <!--
 **jessytpt/jessytpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
